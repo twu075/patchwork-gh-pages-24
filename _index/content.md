@@ -1,7 +1,7 @@
 ---
 profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+name: "Tian Wu"
+title: "Biology Master's student & Programming enthusiast"
 ---
 
 #### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
