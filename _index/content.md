@@ -1,5 +1,5 @@
 ---
-profileimage: "https://www.google.ca/search?q=curious+george&espv=2&biw=1246&bih=641&source=lnms&tbm=isch&sa=X&sqi=2&ved=0ahUKEwjCgJ6u4a3NAhUKlB4KHYKSCTwQ_AUIBygC#imgrc=XbHa-_7GSZIxHM%3A"
+profileimage: "http://hero.wikia.com/wiki/File:Curious-George.jpg"
 name: "Tian Wu"
 title: "Biology Master's student & Programming enthusiast"
 ---
