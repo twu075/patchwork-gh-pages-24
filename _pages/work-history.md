@@ -25,6 +25,6 @@ Termite transcriptomics
 
 _Description of the job and duties._
 
-* Accomplishment 1
-* Accomplishment 2
+* 77 members from department of biology, biochemistry, computer science, and London Hospital Networks
+* Lead weekly transcriptomic workshop 
 * Accomplishment 3
