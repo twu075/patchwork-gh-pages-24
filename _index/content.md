@@ -1,28 +1,26 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
+profileimage: "https://www.google.ca/search?q=curious+george&espv=2&biw=1246&bih=641&source=lnms&tbm=isch&sa=X&sqi=2&ved=0ahUKEwjCgJ6u4a3NAhUKlB4KHYKSCTwQ_AUIBygC#imgrc=XbHa-_7GSZIxHM%3A"
 name: "Tian Wu"
 title: "Biology Master's student & Programming enthusiast"
 ---
 
 #### *Tian likes biology and computer programming*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+Go Giants, Go Raptors
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
-
-#### Strategic Consulting
+#### Bioinformatics
 * Competitive analysis
 * Business and fincancial modeling
 * Decision making frameworks
 * Open-ended strategic sessions
 * Strategic offsites for management teams
 
-#### Management Consulting
+#### Entomology
 * Oranization structuring
 * Culture development
 * Management coaching
 * Interviewing, hiring, and onboarding process creation
 
-#### Education Design and Management
+#### App development
 * Course development
 * Process creation for course authoring teams
