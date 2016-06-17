@@ -1,5 +1,5 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
+profileimage: "http://hero.wikia.com/wiki/Curious_George?file=Curious-George.jpg"
 name: "Tian Wu"
 title: "Biology Master's student & Programming enthusiast"
 ---
