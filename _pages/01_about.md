@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: About
+title: "Welcome to Tian's house"
+permalink: http://twu075.github.io/profile/about/
 ---
 
 This is a Jekyll project provided by Wheelhouse.io. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
