@@ -4,7 +4,7 @@ name: "Tian Wu"
 title: "Biology Master's student & Programming enthusiast"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Tian likes biology and computer programming*
 
 His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
 
